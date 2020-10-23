@@ -22,3 +22,6 @@ Setup the development environment : https://reactnative.dev/docs/environment-set
 To focus on the project itself, I've worked directly on master. This project is a simple learning playground, so i'll not take the time to work with branch.
 
 ## Time spent
+
+-  4 hours initial research on Redux documentation, who did indirectly helped
+- 1.5 hours on Redux implementation
